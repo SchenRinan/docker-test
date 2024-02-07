@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     },
     {
       "id":"2",
-      "title":"Game Review: Pokemon Brilliant Diamond"
+      "title":"Game Review: Pokemon Brilliant test Diamond"
     },
     {
       "id":"3",
